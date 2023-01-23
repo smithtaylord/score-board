@@ -1,0 +1,48 @@
+* {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1471295253337-3ceaaedca402?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1468&q=80');
+}
+
+.score-board {
+    background-color: #152CF48A;
+    border: 2px solid #7A95F8D6;
+}
+
+.score-number {
+    font-size: 220px;
+    background-color: #4F6AAE7A;
+    border: 2px solid #5EFFFFB0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.home-away {
+    font-size: 96px;
+}
+
+.btn-sports {
+    background-color: #152CF48A;
+    border: 2px solid #7A95F8D6;
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-reset {
+    color: white;
+    font-size: 32px;
+    background-color: #FF000075;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-sports:focus {
+    background-color: #152CF48A;
+    ;
+}
+
+.btn-reset:focus {
+    background-color: #FF000075;
+}
